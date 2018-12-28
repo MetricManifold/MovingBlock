@@ -1,4 +1,4 @@
-package hsa_ufa;
+package com.silber.hsa_ufa;
 
 /**
  * The FatalError class displays an error message and then terminates the

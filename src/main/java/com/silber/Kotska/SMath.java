@@ -1,7 +1,7 @@
-package Kotska;
+package com.silber.kotska;
 
-import DataClasses.Pair;
-import DataClasses.Displacement;
+import com.silber.data.Pair;
+import com.silber.data.Displacement;
 
 public class SMath
 {

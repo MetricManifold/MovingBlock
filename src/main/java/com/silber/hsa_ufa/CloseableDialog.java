@@ -1,4 +1,4 @@
-package hsa_ufa;
+package com.silber.hsa_ufa;
 
 /**
  * Internal to hsa package.

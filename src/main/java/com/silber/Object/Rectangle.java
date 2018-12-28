@@ -1,6 +1,6 @@
-package Object;
+package com.silber.object;
 
-import Kotska.Kotska;
+import com.silber.kotska.Kotska;
 
 /**
  * Generates rectangle shape.

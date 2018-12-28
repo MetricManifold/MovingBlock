@@ -1,4 +1,4 @@
-package hsa_ufa;
+package com.silber.hsa_ufa;
 
 /**
  * The TextOutputFile writes text to a file. The class is a superset of

@@ -1,4 +1,4 @@
-package DataClasses;
+package com.silber.data;
 
 /**
  * A vector defining a direction.

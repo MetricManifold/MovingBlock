@@ -22,7 +22,7 @@
  * @author Josh Gray (mouse code)
  * @author Tom West (old hsa code)
  */
-package hsa_ufa;
+package com.silber.hsa_ufa;
 
 import java.awt.*;
 import java.awt.event.*;

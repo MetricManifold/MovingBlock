@@ -1,4 +1,4 @@
-package Object;
+package com.silber.object;
 
 import Kotska.Kotska;
 

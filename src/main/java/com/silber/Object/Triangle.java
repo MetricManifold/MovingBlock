@@ -1,6 +1,6 @@
-package Object;
+package com.silber.object;
 
-import Kotska.Kotska;
+import com.silber.kotska.Kotska;
 
 public class Triangle extends Shape
 {

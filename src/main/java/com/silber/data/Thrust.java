@@ -1,6 +1,6 @@
-package DataClasses;
+package com.silber.data;
 
-import Object.Shape;
+import com.silber.object.Shape;
 
 public class Thrust
 {

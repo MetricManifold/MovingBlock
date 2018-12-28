@@ -1,4 +1,4 @@
-package Kotska;
+package com.silber.kotska;
 
 import java.lang.reflect.Array;
 

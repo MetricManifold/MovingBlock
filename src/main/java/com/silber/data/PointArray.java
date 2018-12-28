@@ -1,6 +1,6 @@
-package DataClasses;
+package com.silber.data;
 
-import Object.ShapeTooComplexException;
+import com.silber.object.ShapeTooComplexException;
 
 public class PointArray implements DataObjectBase<PointArray>
 {

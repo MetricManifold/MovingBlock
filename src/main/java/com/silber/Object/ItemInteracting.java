@@ -1,8 +1,8 @@
-package Object;
+package com.silber.object;
 
 import java.awt.Image;
 
-import Kotska.Kotska;
+import com.silber.kotska.Kotska;
 
 public abstract class ItemInteracting extends Item
 {

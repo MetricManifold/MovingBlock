@@ -1,1 +1,1 @@
-package Kotska;
+package com.silber.kotska;

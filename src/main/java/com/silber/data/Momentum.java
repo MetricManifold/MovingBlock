@@ -1,7 +1,7 @@
-package DataClasses;
+package com.silber.data;
 
-import Kotska.Physics;
-import Kotska.SMath;
+import com.silber.kotska.Physics;
+import com.silber.kotska.SMath;
 
 /**
  * Class representing the energy property used for objects.

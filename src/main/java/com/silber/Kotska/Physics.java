@@ -1,10 +1,10 @@
-package Kotska;
+package com.silber.kotska;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-import DataClasses.*;
-import Object.Shape;
+import com.silber.data.*;
+import com.silber.object.Shape;
 
 public class Physics
 {

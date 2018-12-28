@@ -1,10 +1,10 @@
-package Kotska;
+package com.silber.kotska;
 
 import java.awt.Image;
 
-import DataClasses.Displacement;
-import DataClasses.Thrust;
-import Object.ItemInteracting;
+import com.silber.data.Displacement;
+import com.silber.data.Thrust;
+import com.silber.object.ItemInteracting;
 
 public class Player extends ItemInteracting
 {

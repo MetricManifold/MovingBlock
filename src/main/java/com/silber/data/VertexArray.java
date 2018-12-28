@@ -1,7 +1,7 @@
 
-package DataClasses;
+package com.silber.data;
 
-import Object.ShapeTooComplexException;
+import com.silber.object.ShapeTooComplexException;
 
 public class VertexArray implements DataObjectBase<VertexArray>
 {

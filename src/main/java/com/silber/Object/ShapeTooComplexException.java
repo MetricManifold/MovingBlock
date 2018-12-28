@@ -1,4 +1,4 @@
-package Object;
+package com.silber.object;
 
 /**
  * This class is used to throw an exception if a shape has too many vertices.

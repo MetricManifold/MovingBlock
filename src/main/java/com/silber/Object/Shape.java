@@ -1,11 +1,11 @@
-package Object;
+package com.silber.object;
 
 import java.awt.Color;
 
-import Kotska.Kotska;
-import DataClasses.*;
-import Kotska.Physics;
-import Kotska.SMath;
+import com.silber.data.*;
+import com.silber.kotska.Physics;
+import com.silber.kotska.Kotska;
+import com.silber.kotska.SMath;
 
 /**
  * Superclass of all shapes.

@@ -1,4 +1,4 @@
-package DataClasses;
+package com.silber.data;
 
 public interface DataObjectBase<T>
 {

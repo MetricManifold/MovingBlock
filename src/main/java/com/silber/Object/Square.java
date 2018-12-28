@@ -1,4 +1,4 @@
-package Object;
+package com.silber.object;
 
 /**
  * Generates square shape.

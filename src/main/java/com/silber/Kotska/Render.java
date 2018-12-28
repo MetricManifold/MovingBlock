@@ -1,6 +1,6 @@
-package Kotska;
+package com.silber.kotska;
 
-import DataClasses.ObjectMan;
+import com.silber.data.ObjectMan;
 
 public class Render
 {

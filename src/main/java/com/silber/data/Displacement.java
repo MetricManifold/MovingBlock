@@ -1,6 +1,6 @@
-package DataClasses;
+package com.silber.data;
 
-import Kotska.SMath;
+import com.silber.kotska.SMath;
 
 /**
  * A vector defining a displacement in terms of x and y float values.

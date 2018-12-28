@@ -1,13 +1,13 @@
-package DataClasses;
+package com.silber.data;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Queue;
 import java.util.Random;
 
-import Kotska.Physics;
-import Kotska.Player;
-import Object.Shape;
+import com.silber.kotska.Physics;
+import com.silber.kotska.Player;
+import com.silber.kotska.Shape;
 
 public class ObjectMan
 {
