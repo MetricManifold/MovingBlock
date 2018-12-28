@@ -7,7 +7,7 @@ import java.util.Random;
 
 import com.silber.kotska.Physics;
 import com.silber.kotska.Player;
-import com.silber.kotska.Shape;
+import com.silber.object.Shape;
 
 public class ObjectMan
 {

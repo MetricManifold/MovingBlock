@@ -46,7 +46,7 @@ public class ConsoleCanvas extends JPanel implements ActionListener, KeyListener
 	/** Window title **/
 	private String title;
 	/** Container of this object **/
-	private hsa_ufa.Console container;
+	private Console container;
 
 	// ***** Screen variables *****
 
@@ -117,7 +117,7 @@ public class ConsoleCanvas extends JPanel implements ActionListener, KeyListener
 	// *** CONSTRUCTORS
 	// ****************
 
-	public ConsoleCanvas(int width, int height, int fontSize, String title, hsa_ufa.Console console)
+	public ConsoleCanvas(int width, int height, int fontSize, String title, Console console)
 	{
 		this.container = console;
 		this.title = title;
